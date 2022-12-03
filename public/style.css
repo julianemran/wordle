@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(245, 231, 213);
+}
+
+.game {
+  width: 100%;
+}
+
+.word {
+  display: flex;
+  justify-content: center;
+}
+
+.letter {
+  width: 20px;
+  height: 20px;
+  background-color: whitesmoke;
+  border: 3px double black;
+  margin: 5px;
+  font-size: 19px;
+  padding: 30px;
+  text-align: center;
+}
